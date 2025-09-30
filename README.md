@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Eduardo Pizarro
 
-<!--
-**epizar/epizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web enfocado en accesibilidad y rendimiento. Me apasiona construir interfaces limpias y funcionales.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- HTML, CSS, JavaScript
+- Git & GitHub
+- React (aprendiendo)
+- GitHub Pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 En formación
+- Especialización en Machine Learning (Botic-Sofofa)
+- Automatización y herramientas modernas
+
+## 🧰 Proyectos destacados
+- [Tarea Módulo 2 - Sitio web estático](https://epizar.github.io/tarea7-grupal-modulo2/)
+- [Portafolio en GitHub Pages (próximamente)](https://github.com/epizar/portafolio)
+
+## 🌐 Conecta conmigo
+- [LinkedIn](https://www.linkedin.com/in/eduardo-pizarro)
